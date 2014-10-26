@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These functions cache the inverse matrix and if we need it later, return the inverse without calculating it
 
 ## This function creates a list of functions, with elements of this list we can set new matrix, get existing matrix, 
 ##set inverse matrix and get inverse matrix
